@@ -1,0 +1,17 @@
+.service_1icon
+{
+	width: 30px;
+	height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.service_1icon svg
+{
+	width: 30px;
+	height: 30px;
+}
+.service_1icon img
+{
+	max-width: 100%;
+    
+}
